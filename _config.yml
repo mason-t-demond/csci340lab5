@@ -1,6 +1,6 @@
 # Site settings
 title:          Databased & Webpilled
-description:    "Minimal Jekyll theme for storytellers"
+description:    "A journal chronicling my journey learning to create in HTML, CSS, and other web-based mediums to interact with the coding world on a grander scale."
 baseurl:        "/csci340lab5"
 url:            "https://mason-t-demond.github.io"
 remote-theme:   chesterhow/tale
