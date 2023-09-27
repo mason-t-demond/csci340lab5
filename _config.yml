@@ -1,8 +1,8 @@
 # Site settings
 title:          Databased & Webpilled
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        "/csci340lab5"
+url:            "https://mason-t-demond.github.io"
 remote-theme:   chesterhow/tale
 
 # Google Analytics
@@ -10,9 +10,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Mason Mason
+  url:          https://github.com/mason-t-demond
+  email:        MasonTD@hendrix.edu
 
 # Build settings
 markdown:       kramdown
