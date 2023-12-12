@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Database and Web Systems: Service to the World
+title: Database and Web Systems - Service to the World
 author: Mason Mason
 tags: reflection
 ---
